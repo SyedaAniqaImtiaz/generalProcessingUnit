@@ -1,2 +1,2 @@
 # generalProcessingUnit
-simple general processing unit
+A simple genereal proceesing unit programmed using VHDL and implemented on an Altera FPGA board 
